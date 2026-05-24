@@ -1,0 +1,20 @@
+<svg width="110" height="110" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#9CA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- bigger head -->
+    <circle cx="40" cy="30" r="16"></circle>
+    
+    <!-- base -->
+    <path d="M40 46 v14"></path>
+    <path d="M24 62 h32"></path>
+    
+    <!-- nodes -->
+    <circle cx="24" cy="18" r="2.5"></circle>
+    <circle cx="56" cy="18" r="2.5"></circle>
+    
+    <!-- connections -->
+    <line x1="26" y1="20" x2="36" y2="28"></line>
+    <line x1="54" y1="20" x2="44" y2="28"></line>
+    
+  </g>
+</svg>
